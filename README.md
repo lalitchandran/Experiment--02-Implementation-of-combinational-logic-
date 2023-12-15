@@ -23,6 +23,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: S LALIT CHANDRAN
 RegisterNumber: 23004048
 */
